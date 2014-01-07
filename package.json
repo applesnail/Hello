@@ -1,0 +1,38 @@
+{
+  "name": "app",
+  "description": "awesome app",
+  "version": "0.0.1",
+  "engines": {
+    "node": "v0.10.24"
+  },
+  "main": "web.js",
+  "dependencies": {
+    "bl": "~0.6.0",
+    "express": "~3.2.6",
+    "express-mailer": "~0.2.0",
+    "mongodb": "~1.3.23",
+    "jade": "~1.0.2",
+    "mongoose": "~3.8.3",
+    "stylus": "~0.41.3",
+    "nib": "~1.0.1",
+    "validator": "~2.0.0",
+    "logfmt": "~0.18.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "example"
+  ],
+  "author": "Yiming",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/applesnail/Hello.git"
+  },
+  "bugs": {
+    "url": "https://github.com/applesnail/Hello/issues"
+  },
+  "homepage": "https://github.com/applesnail/Hello"
+}
